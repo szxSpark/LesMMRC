@@ -3,6 +3,7 @@
 - 比赛官网：[军事智能机器阅读挑战赛官网](http://47.96.153.138/index.html)
 - 比赛成绩：14th/247（Top 5%）
 - 队友：[lhliu](https://github.com/llhthinker)
+- 比赛数据：[LesMMRC](http://47.96.153.138/files/LesMMRC.zip)
 
 # 运行环境
 - python版本：3.5.4
